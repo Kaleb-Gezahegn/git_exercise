@@ -1,12 +1,10 @@
 What I do in between classes
-<<<<<<< HEAD
 
 I usually like to hangout with friends during the breaks between class, even though I despise most of them.
 I be lowkey pretending.
 I head to the CC to see who is there studying or just hanging out.
 I get some coffee or water to talk about my day and catch up. The coffee is usually really disgusting.
 I almost threw up the last time I had it.
-=======
 Yo Ho Ho and a bottle of rum, I say.
 I usually like to hangout with friends during the breaks between class.
 Yo Ho Ho and a bottle of rum, I say.
@@ -14,7 +12,6 @@ I head to the CC to see who is there studying or just hanging out.
 Yo Ho Ho and a bottle of rum, I say.
 I get some coffee or water to talk about my day and catch up.
 Yo Ho Ho and a bottle of rum, I say.
->>>>>>> 434eae5d4186e360c121c45fe638ee6613cf0304
 Sometimes I get hungry so I get something from the Grill.
 Yo Ho Ho and a bottle of rum, I say.
 The spicy salmon sushi is usually my go to, I think it's pretty good!
